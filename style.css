@@ -1,0 +1,17 @@
+div h2 {
+    font-size: 15px;
+}
+
+.align{
+    display: flex;
+    align-items: center;
+}
+
+
+
+ .search{
+    background-color: white;
+   max-width: 20rem;  
+   border-radius: 10px; 
+ }
+
